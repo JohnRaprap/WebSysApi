@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "name": "John Vargas",
+    "email": "vargasjohnraphael@gmail.com",
+    "phone": "0997189742",
+    "address": {
+        "street": "81 Mabuti St",
+        "city": "Caloocan",
+        "state": "Manila",
+        "zip": "1400",
+    },
+
+    "company": {
+        "name": "Global Reciprocal Colleges",
+        "position": "Kahit ano",
+        "department": "Information Technology"
+    }
+
+}
